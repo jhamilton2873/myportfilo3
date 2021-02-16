@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="head" -->
+<link href="../assests/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/rdh5qwl.css">
+<link rel="stylesheet" href="https://use.typekit.net/rdh5qwl.css">
+<link rel="stylesheet" href="https://use.typekit.net/rdh5qwl.css">
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		<li><a href="../Pages/about.html">About</a></li>
+	    <li><a href="../Pages/blog.html">Blog</a></li>
+	    <li><a href="../Pages/gallery.html">Gallery</a></li>
+	    <li><a href="../Pages/contact.html">Contact</a></li></ul>
+	
+  </nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm a Student at cox mill and I play basketball and im a senior.</h3>
+	<h3>Tag along to see my life through my lenses.</h3></aside>
+	<!-- TemplateBeginEditable name="main-content" -->
+  <main>
+   <h1>Page title</h1>
+  </main>
+<!-- TemplateEndEditable -->
+  <!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>	
+</body>
+</html>
